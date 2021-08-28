@@ -1,0 +1,627 @@
+1628454160661	geckodriver	INFO	Listening on 127.0.0.1:43429
+1628454160670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB8j2VA"
+Gtk-Message: 23:22:40.731: Failed to load module "appmenu-gtk-module"
+1628454161913	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:22:42.572: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:22:43.347: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:22:45.382: Failed to load module "appmenu-gtk-module"
+1628454166077	Marionette	INFO	Listening on port 40851
+1628454166149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628454413902	geckodriver	INFO	Listening on 127.0.0.1:59477
+1628454413914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenTg8mF"
+Gtk-Message: 23:26:53.977: Failed to load module "appmenu-gtk-module"
+1628454414996	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:26:55.689: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:26:56.558: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628454419255	Marionette	INFO	Listening on port 35197
+1628454419297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 23:26:59.662: Failed to load module "appmenu-gtk-module"
+1628454536471	geckodriver	INFO	Listening on 127.0.0.1:37291
+1628454537492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile75AdTc"
+Gtk-Message: 23:28:57.560: Failed to load module "appmenu-gtk-module"
+1628454538600	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:28:59.245: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:29:00.035: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:29:02.622: Failed to load module "appmenu-gtk-module"
+1628454543557	Marionette	INFO	Listening on port 40841
+1628454543627	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628454603381	geckodriver	INFO	Listening on 127.0.0.1:34263
+1628454603391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQSLcES"
+Gtk-Message: 23:30:03.459: Failed to load module "appmenu-gtk-module"
+1628454604645	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:30:05.424: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:30:06.326: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:30:08.711: Failed to load module "appmenu-gtk-module"
+1628454609550	Marionette	INFO	Listening on port 46399
+1628454609623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628454620689	Marionette	INFO	Stopped listening on port 46399
+1628454624410	Marionette	INFO	Stopped listening on port 35197
+1628454625938	Marionette	INFO	Stopped listening on port 40851
+1628454627366	Marionette	INFO	Stopped listening on port 40841
+1628455281555	geckodriver	INFO	Listening on 127.0.0.1:43599
+1628455282572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCTTup3"
+Gtk-Message: 23:41:22.645: Failed to load module "appmenu-gtk-module"
+1628455283713	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:41:24.370: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:41:25.190: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:41:27.270: Failed to load module "appmenu-gtk-module"
+1628455288156	Marionette	INFO	Listening on port 35975
+1628455288294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628455399281	geckodriver	INFO	Listening on 127.0.0.1:44645
+1628455399291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTVKjxG"
+Gtk-Message: 23:43:19.349: Failed to load module "appmenu-gtk-module"
+1628455400405	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:43:20.988: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:43:21.770: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:43:24.165: Failed to load module "appmenu-gtk-module"
+1628455405099	Marionette	INFO	Listening on port 39833
+1628455405181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628455516531	Marionette	INFO	Stopped listening on port 39833
+1628455517775	Marionette	INFO	Stopped listening on port 35975
+1628455577136	geckodriver	INFO	Listening on 127.0.0.1:58385
+1628455577146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFkWAC8"
+Gtk-Message: 23:46:17.199: Failed to load module "appmenu-gtk-module"
+1628455578199	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:46:18.871: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:46:19.672: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:46:21.663: Failed to load module "appmenu-gtk-module"
+1628455582413	Marionette	INFO	Listening on port 35949
+1628455582542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628455591067	Marionette	INFO	Stopped listening on port 35949
+1628456040812	geckodriver	INFO	Listening on 127.0.0.1:55301
+1628456040821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelpuRzJ"
+Gtk-Message: 23:54:00.872: Failed to load module "appmenu-gtk-module"
+1628456041981	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:54:02.673: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:54:03.510: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628456045954	Marionette	INFO	Listening on port 41567
+1628456046024	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 23:54:06.511: Failed to load module "appmenu-gtk-module"
+1628456053264	Marionette	INFO	Stopped listening on port 41567
+1628456258444	geckodriver	INFO	Listening on 127.0.0.1:53725
+1628456258460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePzXUs3"
+Gtk-Message: 23:57:38.518: Failed to load module "appmenu-gtk-module"
+1628456259531	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:57:40.189: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:57:41.011: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:57:42.784: Failed to load module "appmenu-gtk-module"
+1628456263513	Marionette	INFO	Listening on port 39123
+1628456263674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628456268673	Marionette	INFO	Stopped listening on port 39123
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilePzXUs3/protections.sqlite
+1628456283238	geckodriver	INFO	Listening on 127.0.0.1:60819
+1628456283247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8nwV3q"
+Gtk-Message: 23:58:03.299: Failed to load module "appmenu-gtk-module"
+1628456284295	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:58:04.948: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:58:05.777: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628456288162	Marionette	INFO	Listening on port 43191
+1628456288225	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 23:58:08.545: Failed to load module "appmenu-gtk-module"
+1628456293504	Marionette	INFO	Stopped listening on port 43191
+1628456374341	geckodriver	INFO	Listening on 127.0.0.1:40163
+1628456374350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSYmbx4"
+Gtk-Message: 23:59:34.406: Failed to load module "appmenu-gtk-module"
+1628456375417	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:59:36.076: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:59:36.904: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:59:39.189: Failed to load module "appmenu-gtk-module"
+1628456380237	Marionette	INFO	Listening on port 36067
+1628456380336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628456385838	Marionette	INFO	Stopped listening on port 36067
+1628457695374	geckodriver	INFO	Listening on 127.0.0.1:43287
+1628457695383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYDWgvd"
+Gtk-Message: 00:21:35.434: Failed to load module "appmenu-gtk-module"
+1628457696423	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:21:37.086: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:21:37.940: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:21:40.927: Failed to load module "appmenu-gtk-module"
+1628457701734	Marionette	INFO	Listening on port 38827
+1628457701858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628457715276	Marionette	INFO	Stopped listening on port 38827
+1628459800673	geckodriver	INFO	Listening on 127.0.0.1:50727
+1628459800689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledYJNQw"
+Gtk-Message: 00:56:40.739: Failed to load module "appmenu-gtk-module"
+1628459801740	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:56:42.311: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:56:43.134: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:56:45.408: Failed to load module "appmenu-gtk-module"
+1628459806325	Marionette	INFO	Listening on port 34115
+1628459806394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628459817831	Marionette	INFO	Stopped listening on port 34115
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628460050529	geckodriver	INFO	Listening on 127.0.0.1:46113
+1628460051540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8TNEEo"
+Gtk-Message: 01:00:51.600: Failed to load module "appmenu-gtk-module"
+1628460052603	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:00:53.252: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:00:54.034: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 01:00:56.080: Failed to load module "appmenu-gtk-module"
+1628460057011	Marionette	INFO	Listening on port 36761
+1628460057129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628460064373	Marionette	INFO	Stopped listening on port 36761
+1628460118081	geckodriver	INFO	Listening on 127.0.0.1:40793
+1628460119094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei30M2q"
+Gtk-Message: 01:01:59.149: Failed to load module "appmenu-gtk-module"
+1628460120167	Marionette	INFO	Marionette enabled
+Gtk-Message: 01:02:00.736: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 01:02:01.555: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 01:02:03.824: Failed to load module "appmenu-gtk-module"
+1628460124588	Marionette	INFO	Listening on port 40729
+1628460124667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628460133789	Marionette	INFO	Stopped listening on port 40729
+1628697450042	geckodriver	INFO	Listening on 127.0.0.1:35617
+1628697451056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7q2HQ"
+Gtk-Message: 18:57:31.139: Failed to load module "appmenu-gtk-module"
+1628697452151	Marionette	INFO	Marionette enabled
+Gtk-Message: 18:57:32.789: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:57:33.550: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 18:57:35.582: Failed to load module "appmenu-gtk-module"
+1628697456532	Marionette	INFO	Listening on port 34089
+1628697456652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628697478705	Marionette	INFO	Stopped listening on port 34089
+1628697548102	geckodriver	INFO	Listening on 127.0.0.1:43205
+1628697548111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehoF3OR"
+Gtk-Message: 18:59:08.180: Failed to load module "appmenu-gtk-module"
+1628697549204	Marionette	INFO	Marionette enabled
+Gtk-Message: 18:59:09.864: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:59:10.876: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 18:59:13.439: Failed to load module "appmenu-gtk-module"
+1628697554511	Marionette	INFO	Listening on port 40907
+1628697554613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628697658177	geckodriver	INFO	Listening on 127.0.0.1:53279
+1628697659185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepfM1qz"
+Gtk-Message: 19:00:59.249: Failed to load module "appmenu-gtk-module"
+1628697660343	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:01:01.159: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:01:02.153: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:01:04.379: Failed to load module "appmenu-gtk-module"
+1628697665216	Marionette	INFO	Listening on port 40705
+1628697665286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628697697973	Marionette	INFO	Stopped listening on port 40705
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628697951269	geckodriver	INFO	Listening on 127.0.0.1:60179
+1628697951278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOzxa4i"
+Gtk-Message: 19:05:51.345: Failed to load module "appmenu-gtk-module"
+1628697952458	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:05:53.146: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:05:53.884: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:05:56.176: Failed to load module "appmenu-gtk-module"
+1628697957022	Marionette	INFO	Listening on port 40335
+1628697957153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628697984702	Marionette	INFO	Stopped listening on port 40335
+1628698069707	geckodriver	INFO	Listening on 127.0.0.1:56011
+1628698069719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevCasQF"
+Gtk-Message: 19:07:49.800: Failed to load module "appmenu-gtk-module"
+1628698070827	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:07:51.483: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:07:52.286: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:07:54.438: Failed to load module "appmenu-gtk-module"
+1628698075281	Marionette	INFO	Listening on port 35021
+1628698075398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628698086836	Marionette	INFO	Stopped listening on port 35021
+1628698140558	geckodriver	INFO	Listening on 127.0.0.1:50685
+1628698140567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler8AIrL"
+Gtk-Message: 19:09:00.649: Failed to load module "appmenu-gtk-module"
+1628698141671	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:09:02.353: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:09:03.161: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:09:05.175: Failed to load module "appmenu-gtk-module"
+1628698146282	Marionette	INFO	Listening on port 42953
+1628698146354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628698151928	Marionette	INFO	Stopped listening on port 42953
+1628698214977	geckodriver	INFO	Listening on 127.0.0.1:34595
+1628698214989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRTF5Xr"
+Gtk-Message: 19:10:15.063: Failed to load module "appmenu-gtk-module"
+1628698216099	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:10:16.785: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:10:17.552: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:10:19.529: Failed to load module "appmenu-gtk-module"
+1628698220279	Marionette	INFO	Listening on port 40097
+1628698220367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628698249529	Marionette	INFO	Stopped listening on port 40097
+1628698301541	geckodriver	INFO	Listening on 127.0.0.1:49599
+1628698301560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKnWAX"
+Gtk-Message: 19:11:41.608: Failed to load module "appmenu-gtk-module"
+1628698302682	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:11:43.382: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:11:44.215: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:11:46.308: Failed to load module "appmenu-gtk-module"
+1628698306904	Marionette	INFO	Listening on port 36261
+1628698306970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628698316970	Marionette	INFO	Stopped listening on port 36261
+1628698358330	geckodriver	INFO	Listening on 127.0.0.1:35221
+1628698358343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXDiU5F"
+Gtk-Message: 19:12:38.392: Failed to load module "appmenu-gtk-module"
+1628698359457	Marionette	INFO	Marionette enabled
+Gtk-Message: 19:12:40.031: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:12:40.846: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 19:12:42.991: Failed to load module "appmenu-gtk-module"
+1628698363669	Marionette	INFO	Listening on port 44881
+1628698363733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628698383190	Marionette	INFO	Stopped listening on port 44881
+1628712954549	geckodriver	INFO	Listening on 127.0.0.1:44377
+1628712955579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePdAwUM"
+Gtk-Message: 23:15:55.649: Failed to load module "appmenu-gtk-module"
+1628712956673	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:15:57.309: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:15:58.114: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:16:00.360: Failed to load module "appmenu-gtk-module"
+1628712961466	Marionette	INFO	Listening on port 44569
+1628712961574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628712981654	Marionette	INFO	Stopped listening on port 44569
+1628713139344	geckodriver	INFO	Listening on 127.0.0.1:48155
+1628713139353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNmpnd"
+Gtk-Message: 23:18:59.408: Failed to load module "appmenu-gtk-module"
+1628713140435	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:19:01.109: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:19:01.955: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:19:04.018: Failed to load module "appmenu-gtk-module"
+1628713145303	Marionette	INFO	Listening on port 45207
+1628713145444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628713169634	Marionette	INFO	Stopped listening on port 45207
+1628713305265	geckodriver	INFO	Listening on 127.0.0.1:48645
+1628713305279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBqOsLm"
+Gtk-Message: 23:21:45.328: Failed to load module "appmenu-gtk-module"
+1628713306413	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:21:47.058: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:21:47.874: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:21:49.894: Failed to load module "appmenu-gtk-module"
+1628713310697	Marionette	INFO	Listening on port 38467
+1628713310780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628713356180	Marionette	INFO	Stopped listening on port 38467
+1628713503183	geckodriver	INFO	Listening on 127.0.0.1:59879
+1628713503194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBj2ML"
+Gtk-Message: 23:25:03.254: Failed to load module "appmenu-gtk-module"
+1628713504280	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:25:04.981: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:25:05.801: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:25:07.731: Failed to load module "appmenu-gtk-module"
+1628713508656	Marionette	INFO	Listening on port 37407
+1628713508763	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628715073424	Marionette	INFO	Stopped listening on port 37407
+1628715159215	geckodriver	INFO	Listening on 127.0.0.1:58005
+1628715159225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVtE7AE"
+Gtk-Message: 23:52:39.275: Failed to load module "appmenu-gtk-module"
+1628715160339	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:52:41.017: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:52:41.843: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:52:44.396: Failed to load module "appmenu-gtk-module"
+1628715165326	Marionette	INFO	Listening on port 39065
+1628715165409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628715184331	Marionette	INFO	Stopped listening on port 39065
+1628715288859	geckodriver	INFO	Listening on 127.0.0.1:49075
+1628715288870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaQhHvt"
+Gtk-Message: 23:54:48.919: Failed to load module "appmenu-gtk-module"
+1628715289960	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:54:50.560: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:54:51.407: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:54:54.097: Failed to load module "appmenu-gtk-module"
+1628715294967	Marionette	INFO	Listening on port 36681
+1628715295060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628715317161	Marionette	INFO	Stopped listening on port 36681
+1628715379005	geckodriver	INFO	Listening on 127.0.0.1:35415
+1628715380014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileasaeRZ"
+Gtk-Message: 23:56:20.070: Failed to load module "appmenu-gtk-module"
+1628715381102	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:56:21.794: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:56:22.598: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:56:24.682: Failed to load module "appmenu-gtk-module"
+1628715385559	Marionette	INFO	Listening on port 38505
+1628715385609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628715413677	Marionette	INFO	Stopped listening on port 38505
+1628715458842	geckodriver	INFO	Listening on 127.0.0.1:34699
+1628715458855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePNkqIy"
+Gtk-Message: 23:57:38.906: Failed to load module "appmenu-gtk-module"
+1628715459999	Marionette	INFO	Marionette enabled
+Gtk-Message: 23:57:40.684: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 23:57:41.473: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 23:57:43.679: Failed to load module "appmenu-gtk-module"
+1628715464361	Marionette	INFO	Listening on port 36313
+1628715464443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628715485511	Marionette	INFO	Stopped listening on port 36313
+1628715903042	geckodriver	INFO	Listening on 127.0.0.1:47685
+1628715903055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYvJPT"
+Gtk-Message: 00:05:03.112: Failed to load module "appmenu-gtk-module"
+1628715904319	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:05:04.926: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:05:05.806: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:05:08.515: Failed to load module "appmenu-gtk-module"
+1628715909128	Marionette	INFO	Listening on port 42539
+1628715909235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628715915855	Marionette	INFO	Stopped listening on port 42539
+1628715952945	geckodriver	INFO	Listening on 127.0.0.1:46427
+1628715952958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet7LXQe"
+Gtk-Message: 00:05:53.011: Failed to load module "appmenu-gtk-module"
+1628715954097	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:05:54.795: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:05:55.583: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:05:57.906: Failed to load module "appmenu-gtk-module"
+1628715958671	Marionette	INFO	Listening on port 33731
+1628715958743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628715981937	Marionette	INFO	Stopped listening on port 33731
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628717741046	geckodriver	INFO	Listening on 127.0.0.1:34007
+1628717741063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile79MceT"
+Gtk-Message: 00:35:41.155: Failed to load module "appmenu-gtk-module"
+1628717742460	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:35:43.105: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:35:43.900: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:35:46.866: Failed to load module "appmenu-gtk-module"
+1628717747296	Marionette	INFO	Listening on port 38305
+1628717747437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628717767805	Marionette	INFO	Stopped listening on port 38305
+1628718219834	Marionette	INFO	Stopped listening on port 40907
+1628718229970	geckodriver	INFO	Listening on 127.0.0.1:52587
+1628718230981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletZv4r5"
+Gtk-Message: 00:43:51.046: Failed to load module "appmenu-gtk-module"
+1628718232163	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:43:52.864: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:43:53.682: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:43:55.812: Failed to load module "appmenu-gtk-module"
+1628718236656	Marionette	INFO	Listening on port 39807
+1628718236753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628718273085	Marionette	INFO	Stopped listening on port 39807
+1628718419699	geckodriver	INFO	Listening on 127.0.0.1:59193
+1628718419710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevHLKM7"
+Gtk-Message: 00:46:59.757: Failed to load module "appmenu-gtk-module"
+1628718420795	Marionette	INFO	Marionette enabled
+Gtk-Message: 00:47:01.453: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 00:47:02.193: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 00:47:04.698: Failed to load module "appmenu-gtk-module"
+1628718425518	Marionette	INFO	Listening on port 44731
+1628718425598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628718486330	Marionette	INFO	Stopped listening on port 44731
+1629452123887	geckodriver	INFO	Listening on 127.0.0.1:43617
+1629452124880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezcSMMI"
+Gtk-Message: 12:35:25.143: Failed to load module "appmenu-gtk-module"
+1629452126881	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:35:27.817: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:35:28.661: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 12:35:32.024: Failed to load module "appmenu-gtk-module"
+1629452132939	Marionette	INFO	Listening on port 39955
+1629452133022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629452151928	Marionette	INFO	Stopped listening on port 39955
+1629452225840	geckodriver	INFO	Listening on 127.0.0.1:35693
+1629452226849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSBaXTL"
+Gtk-Message: 12:37:06.914: Failed to load module "appmenu-gtk-module"
+1629452227994	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:37:08.717: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:37:09.607: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 12:37:12.255: Failed to load module "appmenu-gtk-module"
+1629452232980	Marionette	INFO	Listening on port 46583
+1629452233043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629452241219	Marionette	INFO	Stopped listening on port 46583
+1629452290512	geckodriver	INFO	Listening on 127.0.0.1:34323
+1629452290522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez83MRk"
+Gtk-Message: 12:38:10.578: Failed to load module "appmenu-gtk-module"
+1629452291645	Marionette	INFO	Marionette enabled
+Gtk-Message: 12:38:12.315: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:38:13.135: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 12:38:15.842: Failed to load module "appmenu-gtk-module"
+1629452296648	Marionette	INFO	Listening on port 37911
+1629452296724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629452303678	Marionette	INFO	Stopped listening on port 37911
+1629453714678	geckodriver	INFO	Listening on 127.0.0.1:40359
+1629453714688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledUpQSM"
+Gtk-Message: 13:01:54.738: Failed to load module "appmenu-gtk-module"
+1629453715777	Marionette	INFO	Marionette enabled
+Gtk-Message: 13:01:56.454: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:01:57.256: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 13:01:59.891: Failed to load module "appmenu-gtk-module"
+1629453720490	Marionette	INFO	Listening on port 39211
+1629453720721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629453862874	Marionette	INFO	Stopped listening on port 39211
+1629455159871	geckodriver	INFO	Listening on 127.0.0.1:35597
+1629455159880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3a7Zik"
+Gtk-Message: 13:25:59.933: Failed to load module "appmenu-gtk-module"
+1629455160947	Marionette	INFO	Marionette enabled
+Gtk-Message: 13:26:01.617: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:26:02.420: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 13:26:04.950: Failed to load module "appmenu-gtk-module"
+1629455165872	Marionette	INFO	Listening on port 39291
+1629455165972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629455173328	Marionette	INFO	Stopped listening on port 39291
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629457757510	geckodriver	INFO	Listening on 127.0.0.1:35763
+1629457757524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC49kj9"
+Gtk-Message: 14:09:17.597: Failed to load module "appmenu-gtk-module"
+1629457758675	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:09:19.269: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:09:20.089: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:09:22.748: Failed to load module "appmenu-gtk-module"
+1629457763783	Marionette	INFO	Listening on port 40193
+1629457763829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629457781305	Marionette	INFO	Stopped listening on port 40193
+1629458398335	geckodriver	INFO	Listening on 127.0.0.1:56161
+1629458398344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXXL5Do"
+Gtk-Message: 14:19:58.399: Failed to load module "appmenu-gtk-module"
+1629458399447	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:20:00.141: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:20:01.029: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:20:03.185: Failed to load module "appmenu-gtk-module"
+1629458404065	Marionette	INFO	Listening on port 35023
+1629458404138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629458571425	geckodriver	INFO	Listening on 127.0.0.1:52531
+1629458571436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7YuRdo"
+Gtk-Message: 14:22:51.489: Failed to load module "appmenu-gtk-module"
+1629458572554	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:22:53.337: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:22:54.304: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:22:57.325: Failed to load module "appmenu-gtk-module"
+1629458578368	Marionette	INFO	Listening on port 35433
+1629458578473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629458709144	Marionette	INFO	Stopped listening on port 35433
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629459022435	geckodriver	INFO	Listening on 127.0.0.1:45229
+1629459023447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLsqkPZ"
+Gtk-Message: 14:30:23.501: Failed to load module "appmenu-gtk-module"
+1629459024563	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:30:25.261: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:30:26.099: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:30:28.894: Failed to load module "appmenu-gtk-module"
+1629459029566	Marionette	INFO	Listening on port 33177
+1629459029644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629459157039	Marionette	INFO	Stopped listening on port 33177
+1629459361220	geckodriver	INFO	Listening on 127.0.0.1:41677
+1629459361235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoka8h6"
+Gtk-Message: 14:36:01.298: Failed to load module "appmenu-gtk-module"
+1629459362456	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:36:03.259: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:36:04.062: Failed to load module "appmenu-gtk-module"
+Exiting due to channel error.
+Exiting due to channel error.
+1629459386153	geckodriver	INFO	Listening on 127.0.0.1:48907
+1629459386163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIPyjWy"
+Gtk-Message: 14:36:26.226: Failed to load module "appmenu-gtk-module"
+1629459387304	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:36:28.029: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:36:28.895: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:36:31.574: Failed to load module "appmenu-gtk-module"
+1629459392330	Marionette	INFO	Listening on port 43317
+1629459392436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629459413454	Marionette	INFO	Stopped listening on port 43317
+1629459709641	geckodriver	INFO	Listening on 127.0.0.1:42445
+1629459709653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem1gJvy"
+Gtk-Message: 14:41:49.703: Failed to load module "appmenu-gtk-module"
+1629459710806	Marionette	INFO	Marionette enabled
+Gtk-Message: 14:41:51.484: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:41:52.253: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:41:54.434: Failed to load module "appmenu-gtk-module"
+1629459715293	Marionette	INFO	Listening on port 39525
+1629459715360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629459736359	Marionette	INFO	Stopped listening on port 39525
+Gdk-Message: 15:18:47.148: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629573608956	geckodriver	INFO	Listening on 127.0.0.1:36345
+1629573609943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHSc3gL"
+Gtk-Message: 22:20:10.213: Failed to load module "appmenu-gtk-module"
+1629573611867	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:20:12.815: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:20:13.707: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 22:20:16.557: Failed to load module "appmenu-gtk-module"
+1629573617511	Marionette	INFO	Listening on port 36971
+1629573617572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629573626101	Marionette	INFO	Stopped listening on port 36971
+1629574097346	geckodriver	INFO	Listening on 127.0.0.1:42089
+1629574098356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVk4Kil"
+Gtk-Message: 22:28:18.417: Failed to load module "appmenu-gtk-module"
+1629574099434	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:28:20.098: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:28:20.888: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 22:28:23.051: Failed to load module "appmenu-gtk-module"
+1629574103846	Marionette	INFO	Listening on port 40205
+1629574103945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629574122941	Marionette	INFO	Stopped listening on port 40205
+1629574374305	geckodriver	INFO	Listening on 127.0.0.1:48029
+1629574374316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileprMfFP"
+Gtk-Message: 22:32:54.380: Failed to load module "appmenu-gtk-module"
+1629574375427	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:32:56.009: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:32:56.840: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 22:32:59.029: Failed to load module "appmenu-gtk-module"
+1629574379848	Marionette	INFO	Listening on port 42657
+1629574379978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629574401636	Marionette	INFO	Stopped listening on port 42657
+1629574627958	geckodriver	INFO	Listening on 127.0.0.1:34363
+1629574627967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex8xxQG"
+Gtk-Message: 22:37:08.024: Failed to load module "appmenu-gtk-module"
+1629574628988	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:37:09.647: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:37:10.411: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 22:37:13.031: Failed to load module "appmenu-gtk-module"
+1629574633721	Marionette	INFO	Listening on port 44979
+1629574633835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629574648736	Marionette	INFO	Stopped listening on port 44979
+1629575715010	geckodriver	INFO	Listening on 127.0.0.1:33837
+1629575715019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD5sgn6"
+Gtk-Message: 22:55:15.068: Failed to load module "appmenu-gtk-module"
+1629575716063	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:55:16.706: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:55:17.484: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 22:55:20.054: Failed to load module "appmenu-gtk-module"
+1629575720858	Marionette	INFO	Listening on port 40507
+1629575720931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629575742664	Marionette	INFO	Stopped listening on port 40507
+1629575798478	geckodriver	INFO	Listening on 127.0.0.1:56725
+1629575798495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Cpu9o"
+Gtk-Message: 22:56:38.545: Failed to load module "appmenu-gtk-module"
+1629575799527	Marionette	INFO	Marionette enabled
+Gtk-Message: 22:56:40.109: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:56:40.876: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 22:56:43.587: Failed to load module "appmenu-gtk-module"
+1629575804331	Marionette	INFO	Listening on port 40279
+1629575804386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629575812764	Marionette	INFO	Stopped listening on port 40279
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
